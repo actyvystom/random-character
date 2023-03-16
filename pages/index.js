@@ -18,6 +18,7 @@ export default function HomePage() {
       <p>Address: {data.address}</p>
       <p>Twittername: {data.twitter}</p>
       <p>Geohash: {data.geohash}</p>
+      <p>Pet: {data.pet}</p>
     </>
   );
 }
